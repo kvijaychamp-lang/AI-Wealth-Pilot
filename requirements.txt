@@ -1,0 +1,48 @@
+# =============================================================================
+# STOCK MARKET AI PREDICTION SYSTEM - REQUIREMENTS
+# =============================================================================
+# Python 3.12 Compatible Stable Versions
+# Generated for stable, production-ready dependencies
+# All versions tested for compatibility and security
+# =============================================================================
+
+# Core Data Science Libraries
+pandas==2.2.0              # Data manipulation and analysis - core data handling
+numpy==1.26.0              # Numerical computing - mathematical operations
+matplotlib==3.8.0          # Plotting and visualization - charts and graphs
+
+# Machine Learning
+scikit-learn==1.4.0        # ML algorithms - model training and evaluation
+joblib==1.3.0              # Parallel processing - model serialization
+
+# Financial Data and Technical Analysis
+yfinance>=1.0.0             # Yahoo Finance API - historical & live NSE stock data
+ta==0.11.0                 # Technical analysis - indicators and signals
+pandas-market-calendars==4.4.0  # Market calendars - trading hours and holidays
+
+# Web and API Communication
+requests==2.31.0           # HTTP requests - API calls to financial services
+websocket-client==1.6.0    # WebSocket client - real-time data streaming
+
+# Dashboard and Visualization
+streamlit==1.28.0          # Web dashboard framework - main UI
+plotly==5.17.0             # Interactive charts - advanced visualizations
+streamlit-autorefresh==1.0.0  # Auto-refresh for Streamlit - live updates
+
+# Configuration and Environment
+python-dotenv==1.0.0       # Environment variables - secure configuration
+
+# Utilities and Progress Tracking
+tqdm==4.66.0               # Progress bars - training progress indication
+
+# Advanced gradient boosting models for stock direction prediction
+xgboost==2.1.1              # Extreme Gradient Boosting
+lightgbm==4.0.0             # LightGBM gradient boosting
+
+# =============================================================================
+# DEVELOPMENT DEPENDENCIES (uncomment for development)
+# =============================================================================
+# pytest==7.4.0             # Testing framework
+# black==23.11.0            # Code formatting
+# flake8==6.1.0             # Linting
+# mypy==1.7.0               # Type checking
