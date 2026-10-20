@@ -1,0 +1,122 @@
+[
+  {
+    "trade_id": "HDFC.NS_20260513_220406_BUY",
+    "symbol": "HDFC.NS",
+    "trade_type": "BUY",
+    "quantity": 92,
+    "price": 108.03706446053036,
+    "timestamp": "2026-05-13T22:04:06.787923",
+    "status": "EXECUTED",
+    "fees": 9.939409930368793,
+    "prediction_confidence": 0.6200777895658248,
+    "prediction_direction": "UP"
+  },
+  {
+    "trade_id": "INFY.NS_20260513_230406_BUY",
+    "symbol": "INFY.NS",
+    "trade_type": "BUY",
+    "quantity": 106,
+    "price": 93.55230811750937,
+    "timestamp": "2026-05-13T23:04:06.787923",
+    "status": "EXECUTED",
+    "fees": 9.916544660455994,
+    "prediction_confidence": 0.8121663915790247,
+    "prediction_direction": "UP"
+  },
+  {
+    "trade_id": "HDFC.NS_20260513_230406_SELL",
+    "symbol": "HDFC.NS",
+    "trade_type": "SELL",
+    "quantity": 92,
+    "price": 91.45293074018096,
+    "timestamp": "2026-05-13T23:04:06.787923",
+    "status": "EXECUTED",
+    "fees": 8.413669628096649,
+    "prediction_confidence": 0.6328794727868317,
+    "prediction_direction": "DOWN"
+  },
+  {
+    "trade_id": "ICICIBANK.NS_20260513_230406_BUY",
+    "symbol": "ICICIBANK.NS",
+    "trade_type": "BUY",
+    "quantity": 92,
+    "price": 106.4568715710741,
+    "timestamp": "2026-05-13T23:04:06.787923",
+    "status": "EXECUTED",
+    "fees": 9.794032184538818,
+    "prediction_confidence": 0.7273177323551822,
+    "prediction_direction": "UP"
+  },
+  {
+    "trade_id": "INFY.NS_20260514_000406_SELL",
+    "symbol": "INFY.NS",
+    "trade_type": "SELL",
+    "quantity": 105,
+    "price": 92.94440778526398,
+    "timestamp": "2026-05-14T00:04:06.787923",
+    "status": "EXECUTED",
+    "fees": 9.759162817452719,
+    "prediction_confidence": 0.7196179860178633,
+    "prediction_direction": "DOWN"
+  },
+  {
+    "trade_id": "ICICIBANK.NS_20260514_000406_SELL",
+    "symbol": "ICICIBANK.NS",
+    "trade_type": "SELL",
+    "quantity": 92,
+    "price": 101.15071659444479,
+    "timestamp": "2026-05-14T00:04:06.787923",
+    "status": "EXECUTED",
+    "fees": 9.305865926688922,
+    "prediction_confidence": 0.8611583669204373,
+    "prediction_direction": "DOWN"
+  },
+  {
+    "trade_id": "TCS.NS_20260514_020406_BUY",
+    "symbol": "TCS.NS",
+    "trade_type": "BUY",
+    "quantity": 93,
+    "price": 105.10547372306684,
+    "timestamp": "2026-05-14T02:04:06.787923",
+    "status": "EXECUTED",
+    "fees": 9.774809056245216,
+    "prediction_confidence": 0.6957978153105667,
+    "prediction_direction": "UP"
+  },
+  {
+    "trade_id": "HDFC.NS_20260514_020406_BUY",
+    "symbol": "HDFC.NS",
+    "trade_type": "BUY",
+    "quantity": 102,
+    "price": 95.0724025259259,
+    "timestamp": "2026-05-14T02:04:06.787923",
+    "status": "EXECUTED",
+    "fees": 9.697385057644443,
+    "prediction_confidence": 0.8015124303588363,
+    "prediction_direction": "UP"
+  },
+  {
+    "trade_id": "TCS.NS_20260514_030406_SELL",
+    "symbol": "TCS.NS",
+    "trade_type": "SELL",
+    "quantity": 93,
+    "price": 95.46039005399821,
+    "timestamp": "2026-05-14T03:04:06.787923",
+    "status": "EXECUTED",
+    "fees": 8.877816275021834,
+    "prediction_confidence": 0.8297785448014549,
+    "prediction_direction": "DOWN"
+  },
+  {
+    "trade_id": "HDFC.NS_20260514_030406_SELL",
+    "symbol": "HDFC.NS",
+    "trade_type": "SELL",
+    "quantity": 88,
+    "price": 109.56938016954108,
+    "timestamp": "2026-05-14T03:04:06.787923",
+    "status": "EXECUTED",
+    "fees": 9.642105454919614,
+    "prediction_confidence": 0.7674290680684064,
+    "prediction_direction": "DOWN"
+  }
+]

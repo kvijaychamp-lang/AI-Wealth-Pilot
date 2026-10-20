@@ -1,0 +1,20 @@
+{
+  "portfolio_metrics": {
+    "total_return": -3218.6815880649574,
+    "total_return_pct": -3.2186815880649573,
+    "win_rate": 50.0,
+    "profit_factor": Infinity,
+    "total_trades": 10,
+    "avg_win": 9190.524296415511,
+    "avg_loss": 0.0
+  },
+  "prediction_metrics": {
+    "accuracy": 16.666666666666664,
+    "total_predictions": 6,
+    "correct_predictions": 1
+  },
+  "summary": {
+    "status": "LOSING",
+    "recommendation": "REVIEW_STRATEGY"
+  }
+}

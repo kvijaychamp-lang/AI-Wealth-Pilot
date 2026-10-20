@@ -1,0 +1,11 @@
+{
+  "initial_cash": 100000.0,
+  "cash": 100000.0,
+  "positions": {},
+  "trade_history": [],
+  "realized_pnl": 0.0,
+  "last_updated": "2026-10-20T11:36:06.934179+05:30",
+  "last_trade_pulse": {},
+  "unrealized_pnl": 0.0,
+  "portfolio_value": 100000.0
+}
